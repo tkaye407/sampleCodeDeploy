@@ -18,6 +18,9 @@
             },
             "a": {
                 "bsonType": "string"
+            }, 
+            "b": {
+                "bsonType": "string"
             }
         }
     }
