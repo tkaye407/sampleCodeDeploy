@@ -7,7 +7,7 @@
             "state": "enabled",
             "partition": {
                 "key": "a",
-                "type": "string",
+                "type": "strinsssg",
                 "permissions": {
                     "read": {},
                     "write": {}
