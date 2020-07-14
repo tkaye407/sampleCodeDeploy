@@ -1,0 +1,24 @@
+{
+    "database": "foo",
+    "collection": "bar",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "insert": true,
+            "delete": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {
+        "title": "FooBar",
+        "properties": {
+            "_id": {
+                "bsonType": "objectId"
+            },
+            "a": {
+                "bsonType": "string"
+            }
+        }
+    }
+}
