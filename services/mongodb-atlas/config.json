@@ -4,10 +4,10 @@
     "config": {
         "readPreference": "primary",
         "sync": {
-            "state": "enabled",
+            "state": "paused",
             "partition": {
                 "key": "a",
-                "type": "strinsssg",
+                "type": "string",
                 "permissions": {
                     "read": {},
                     "write": {}
